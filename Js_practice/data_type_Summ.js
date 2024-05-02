@@ -27,3 +27,10 @@
 // i)               Object                                object
 // ii)              Array                                  object
 // iii)             Function                            function(object)
+
+
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Memory type: 2 
+// 1.Stack = Primitive - 
+//2.Heap = Non-Primitive -

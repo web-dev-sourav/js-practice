@@ -1,9 +1,9 @@
 const new1 = [ "a", "b", "c" ,"d"]
 const new2 = ['1' ,'2', '3']
 
-new1.push(new2)
+const Arrayprb = new1.push(new2)
 
-// console.log(Arrayprb);
+console.log(new1);
 
 // var test1 = new1.length
 // console.log(test1);
@@ -26,6 +26,7 @@ const multiarray2 = multiarray.flat(Infinity)
 
 // console.log(multiarray2);
 
+
 // console.log(Array.isArray([ "a", "b", "c" ,"d"]));
 
 // console.log(Array.from(typeof "Sourav"));
@@ -35,4 +36,4 @@ let num = 102;
 let num1 = 103;
 let num2 = 104;
 
-console.log(Array.of(num ,num1 , num2));
+// console.log(Array.of(num ,num1 , num2));
